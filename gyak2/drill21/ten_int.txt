@@ -1,0 +1,10 @@
+citrom 4 420
+alma 2 514
+dinnye 6 412
+körte 8 547 
+banán 10 214
+datolya 1 24
+barack 3 36
+eper 7 2
+áfonya 5 87
+meggy 9 14
